@@ -10,7 +10,7 @@ interface TextTemplateProps {
   buttons?: Button[];
 }
 
-const TextTemplate: React.FC<TextTemplateProps> = ({ content, buttons }) => (
+export const TextTemplate: React.FC<TextTemplateProps> = ({ content, buttons }) => (
   <div className={styles['text-template']}>
     <div className={styles['text-template-content']}>{content}</div>
     <div className={styles['text-template-suggestion-buttons-list']}>
@@ -31,7 +31,7 @@ interface RichCardTemplateProps {
   buttons: Button[];
 }
 
-const RichCardTemplate: React.FC<RichCardTemplateProps> = (props) => {
+export const RichCardTemplate: React.FC<RichCardTemplateProps> = (props) => {
 
   const { title, description, mediaUrl, orientation, alignment, mediaHeight, buttons } = props;
 
@@ -88,7 +88,7 @@ interface CarouselTemplateProps {
   carouselList: CarouselItem[];
 }
 
-const CarouselTemplate: React.FC<CarouselTemplateProps> = (props) => {
+export const CarouselTemplate: React.FC<CarouselTemplateProps> = (props) => {
 
   const { width, height, carouselList } = props;
 
@@ -129,7 +129,7 @@ const CarouselTemplate: React.FC<CarouselTemplateProps> = (props) => {
   );
 }
 
-const RCSPreviewExample: React.FC = () => {
+export const RCSPreviewExample: React.FC = () => {
 
 
   const textTemplatesList : TextTemplateProps[] = [
@@ -357,4 +357,3 @@ const RCSPreviewExample: React.FC = () => {
   );
 };
 
-export { RCSPreviewExample, TextTemplate, RichCardTemplate, CarouselTemplate };
