@@ -160,7 +160,7 @@ export const RCSPreviewExample: React.FC = () => {
 {
     title: 'Rich Card Vertical Short Height',
     description: 'A Rich CarasdasdaasdasdasdasasdasddCarasdasdaasdasdasdasdasddCarasdasdaasdasdasdasdasdd Ticket example',
-    mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+    mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
     orientation: 'VERTICAL',
     mediaHeight: 'SHORT_HEIGHT',
     buttons: [
@@ -171,7 +171,7 @@ export const RCSPreviewExample: React.FC = () => {
   }, {
     title: 'Rich Card Vertical Medium Height',
     description: 'A Rich CarasdasdaasdasdasdasdasdaasdasdasdasdasddCarasdasdaasdasdasdasdasddCarasdasdaasdasdasdasdasdd Ticket example',
-    mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+    mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
     orientation: 'VERTICAL',
     mediaHeight: 'MEDIUM_HEIGHT',
     buttons: [
@@ -183,7 +183,7 @@ export const RCSPreviewExample: React.FC = () => {
     {
     title: 'Rich Card Horizontal Left ',
     description: 'A Rich CarasdasdaasdasdasdasdasddCaaasdasdasdasdasddCarasdasdaasdasdasdasdasdd Ticket example',
-    mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+    mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
     orientation: 'HORIZONTAL',
     alignment : 'LEFT',
     buttons: [
@@ -194,7 +194,7 @@ export const RCSPreviewExample: React.FC = () => {
   },{
     title: 'Rich Card Horizontal Right',
     description: 'A Rich CarasdasdaasdasdasdasdasddCaradasdaasdasdasdasdasddCarasdasdaasdasdasdasdasddCarasdasdaasdasdasdasdasddCarasdasdaasdasdasdasdasdd Ticket example',
-    mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+    mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
     orientation: 'HORIZONTAL',
     alignment : 'RIGHT',
     buttons: [
@@ -212,7 +212,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Short Height Small Width',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -222,7 +222,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Ticket test',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -237,7 +237,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Medium Height Small Width',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -247,7 +247,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Ticket test',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -263,7 +263,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Short Height Medium Width',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -273,7 +273,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Ticket test',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -288,7 +288,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Medium Height Medium Width',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
@@ -298,7 +298,7 @@ export const RCSPreviewExample: React.FC = () => {
       {
         title: 'Rich Card Ticket test',
         description: 'A Rich Card Ticket example',
-        mediaUrl: 'https://iris.makemytrip.com/iris/pr/d90/mmt/MicrosoftTeams-image_QtG8zVpMhxNc.png',
+        mediaUrl: 'https://placehold.co/600x400/EEE/31343C',
         buttons: [
           { displayText: 'Like' },
           { displayText: 'Stop please' },
